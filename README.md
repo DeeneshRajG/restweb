@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:16.10.2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -492,6 +492,12 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![WhatsApp Image 2025-10-16 at 13 50 35](https://github.com/user-attachments/assets/bb785aa1-cf5c-4c60-b29e-1962767128fd)
+![WhatsApp Image 2025-10-16 at 13 50 48](https://github.com/user-attachments/assets/0e439dcf-5073-4da5-9a2a-eea18e48d4cc)
+![WhatsApp Image 2025-10-16 at 13 51 04](https://github.com/user-attachments/assets/7ca7685c-8136-461d-b14d-4e375e080697)
+![WhatsApp Image 2025-10-16 at 13 52 04](https://github.com/user-attachments/assets/93ca1e00-47b4-433e-8910-c78c933eb475)
+
+
 
 
 
